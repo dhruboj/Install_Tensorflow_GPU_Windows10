@@ -3,4 +3,4 @@
 ### Hardware Requirements
 - NVIDI GPU card with CUDA compute capability. Check your card in the link below:
 
-https://developer.nvidia.com/cuda-gpus 
+  https://developer.nvidia.com/cuda-gpus 
